@@ -1,3 +1,3 @@
-print "hello WORLD"
-put "GoodBye"
-put "World"
+puts "hello WORLD"
+puts "GoodBye"
+puts "World"
